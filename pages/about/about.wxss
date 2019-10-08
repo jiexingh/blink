@@ -1,0 +1,9 @@
+/* pages/about/about.wxss */
+
+.about {
+  margin: 20rpx;
+}
+
+.about>text {
+  padding: 20rpx;
+}

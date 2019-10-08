@@ -1,0 +1,23 @@
+/* components/like/index.wxss */
+
+.container {
+  /* 自适应宽度 */
+  display: inline-flex;
+  flex-direction: row;
+  padding: 10rpx;
+  /* 避免跳动 */
+  width: 90rpx;
+}
+
+.container image {
+  width: 32rpx;
+  height: 28rpx;
+}
+.container text{
+  font-size: 24rpx;
+  line-height: 24rpx;
+  position: relative;
+  left: 10rpx;
+  bottom: 6rpx;
+  color: #bbbbbb;
+}

@@ -1,0 +1,4 @@
+<!--pages/about/about.wxml-->
+<view class='about'>
+  <text>本小程序是基于慕课网七月老师的课程而开发的，仅供学习使用   coding by JXH</text>
+</view>
